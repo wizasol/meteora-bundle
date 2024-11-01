@@ -18,4 +18,10 @@ This project is bundling script which create pool + add liquidity + first buy at
 
 With this script , you can proceed create pool + add liquidity + swap with different wallet.
 
-If you want bundling , plz let me know
+This is open-source and feel free to ask me when you encounter with error while running this bot
+
+I've succeeded in several wallet bundler upto 22 wallets
+
+This is paid bot
+
+If you need that one , plz contact to me
